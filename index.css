@@ -1,0 +1,66 @@
+h1{
+    font-family: Manrope;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+p{
+    margin-top: 126px;
+    margin-bottom: 36px;
+    color: rgb(0, 0, 0);
+    font-family: Manrope;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.buttonCounter{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 36px;
+    width: 500px;
+    height: 100px;
+    text-decoration: none;
+    border: none;
+    border-radius: 20px;
+    background: rgb(65, 145, 255);
+
+    
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.buttonCounter:hover{
+    color: crimson;
+}
+.buttonReset{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 100px;
+    text-decoration: none;
+    border: none;
+    border-radius: 20px;
+    background: rgb(212, 83, 102);
+
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.buttonReset:hover{
+    color: blue;
+}
